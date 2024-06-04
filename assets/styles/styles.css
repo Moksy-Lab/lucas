@@ -1,0 +1,563 @@
+/*****TypographyCSS*****/
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
+
+@-ms-viewport {
+  width: device-width; }
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+ }
+
+textarea {
+  overflow: auto;
+  resize: vertical; }
+
+h1, .h1 {
+  font-size: 2.75rem; }
+
+h2, .h2 {
+  font-size: 2rem; }
+
+h3, .h3 {
+  font-size: 1.125rem; }
+
+h4, .h4 {
+  font-size: 1rem; }
+
+h5, .h5 {
+  font-size: 0.875rem; }
+
+h6, .h6 {
+  font-size: 0.813rem; }
+
+.lead {
+  font-size: 1.4rem;
+  font-weight: 400; }
+
+.display-1 {
+  font-size: 6rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-2 {
+  font-size: 5.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-3 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1); }
+/*****TypographyCSS*****/
+
+/*****harshall*****/
+/* #harshall(a9823ff3dfbdaa29) #css starts  */
+#headera9823ff3dfbdaa29 {
+    min-height: 8vh;
+}
+.headera9823ff3dfbdaa29 .navbar {
+    transition: all 0.4s
+}
+.headera9823ff3dfbdaa29 .navbar .nav-link {
+    color: rgb(0, 0, 0)
+}
+.headera9823ff3dfbdaa29 .navbar .nav-link:hover,
+.headera9823ff3dfbdaa29 .navbar .nav-link:focus {
+    color: rgb(233, 159, 0);
+    text-decoration: none
+}
+.headera9823ff3dfbdaa29 .navbar .navbar-brand {
+    color: rgb(0, 0, 0)
+}
+
+.headera9823ff3dfbdaa29 .navbar.active {
+    background: #fff;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1)
+}
+
+.headera9823ff3dfbdaa29 .navbar.active .nav-link {
+    color: #555
+}
+
+.headera9823ff3dfbdaa29 .navbar.active .nav-link:hover,
+.headera9823ff3dfbdaa29 .navbar.active .nav-link:focus {
+    color: #555;
+    text-decoration: none
+}
+
+.headera9823ff3dfbdaa29 .navbar.active .navbar-brand {
+    color: #555
+}
+
+/* Media Query */
+@media (max-width: 991.98px) {
+    .headera9823ff3dfbdaa29 .navbar {
+        background: #fff;
+        color: black
+    }
+
+    .headera9823ff3dfbdaa29 .navbar .navbar-brand, 
+    .headera9823ff3dfbdaa29 .navbar .nav-link {
+        color: #555
+    }
+    .headera9823ff3dfbdaa29 .navbar .nav-item{
+        color: black
+    }
+}
+/* #harshall(a9823ff3dfbdaa29) #css ends  */
+/*****harshall*****/
+
+/*****adidas*****/
+    /* #adidas(b90ffb8dc999187d) #css starts  */
+    .aboutb90ffb8dc999187d .sec-title1 {
+        position: relative;
+        z-index: 1;   
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 .title1 {
+        position: relative;
+        display: block;
+        font-size: 20px;
+        color: #000000;
+        font-weight: 700        
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 h2 {
+        position: relative;
+        display: block;
+        font-size: 30px;
+        line-height: 1.28em;
+        color: #2ab731;
+        font-weight: 600;
+        padding-bottom: 18px
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 h2:before {
+        position: absolute;
+        content: '';
+        left: 0px;
+        bottom: 0px;
+        width: 50px;
+        height: 3px;
+        background-color: #000000
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 .texte1 {
+        position: relative;
+        font-size: 16px;
+        line-height: 26px;
+        color: #000000;
+        font-weight: 400;
+        margin-top: 30px
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1.light h2 {
+        color: #ffffff
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1.text-center h2:before {
+        left: 50%;
+        margin-left: -25px
+    }
+
+    .aboutb90ffb8dc999187d .btn-style-one1 {
+        position: relative;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 30px;
+        border: 2px solid #2AB72A;
+        opacity: 0.9;
+        color: #000000;
+        padding: 10px 30px;
+        font-weight: 600;
+        overflow: hidden;
+        letter-spacing: 0.02em;
+        margin-left: -50px;
+        background-color: white
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 {
+        position: relative;
+        padding: 120px 0 70px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .sec-title1 {
+        margin-bottom: 45px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .content-column1 {
+        position: relative;
+        margin-bottom: 50px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .content-column1 .inner-column1 {
+        position: relative;
+        padding-left: 30px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .texte1 {
+        margin-bottom: 40px;
+        font-size: 16px;
+        line-height: 26px;
+        color: #4a4a4a;
+        font-weight: 400
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 {
+        margin-bottom: 45px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .btn-box1 {
+        position: relative
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .btn-box1 {
+        padding: 15px 50px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 {
+        position: relative
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .text-layer {
+        position: absolute;
+        right: -110px;
+        top: 50%;
+        font-size: 325px;
+        line-height: 1em;
+        color: #ffffff;
+        margin-top: -175px;
+        font-weight: 500
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .inner-column1 {
+        position: relative;
+        padding-left: 120px;
+        padding-bottom: 125px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .inner-column1:before {
+        position: absolute;
+        left: -75px;
+        top: 65px;
+        height: 520px;
+        width: 520px;
+        background-image: url(https://i.ibb.co/fxJ1jtC/about-circle-1.png);
+        content: ""
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-1 {
+        position: relative
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-2 {
+        position: absolute;
+        left: 0;
+        bottom: 0
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-2,
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-1 {
+        box-shadow: 0 30px 50px rgba(8, 13, 62, .15)
+    }
+
+    .aboutb90ffb8dc999187d .image-column1 .inner-column1 img {
+        height: 400px;
+        width: 400px
+    }
+    @media (max-width: 767.98px) {
+        .aboutb90ffb8dc999187d .image-column1{
+    margin-left: -50px;
+  }
+}
+    /* #adidas(b90ffb8dc999187d) #css ends  */
+/*****adidas*****/
+
+/*****adidas*****/
+    /* #adidas(b90ffb8dc999187d) #css starts  */
+    .aboutb90ffb8dc999187d .sec-title1 {
+        position: relative;
+        z-index: 1;   
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 .title1 {
+        position: relative;
+        display: block;
+        font-size: 20px;
+        color: #000000;
+        font-weight: 700        
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 h2 {
+        position: relative;
+        display: block;
+        font-size: 30px;
+        line-height: 1.28em;
+        color: #2ab731;
+        font-weight: 600;
+        padding-bottom: 18px
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 h2:before {
+        position: absolute;
+        content: '';
+        left: 0px;
+        bottom: 0px;
+        width: 50px;
+        height: 3px;
+        background-color: #000000
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1 .texte1 {
+        position: relative;
+        font-size: 16px;
+        line-height: 26px;
+        color: #000000;
+        font-weight: 400;
+        margin-top: 30px
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1.light h2 {
+        color: #ffffff
+    }
+
+    .aboutb90ffb8dc999187d .sec-title1.text-center h2:before {
+        left: 50%;
+        margin-left: -25px
+    }
+
+    .aboutb90ffb8dc999187d .btn-style-one1 {
+        position: relative;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 30px;
+        border: 2px solid #2AB72A;
+        opacity: 0.9;
+        color: #000000;
+        padding: 10px 30px;
+        font-weight: 600;
+        overflow: hidden;
+        letter-spacing: 0.02em;
+        margin-left: -50px;
+        background-color: white
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 {
+        position: relative;
+        padding: 120px 0 70px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .sec-title1 {
+        margin-bottom: 45px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .content-column1 {
+        position: relative;
+        margin-bottom: 50px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .content-column1 .inner-column1 {
+        position: relative;
+        padding-left: 30px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .texte1 {
+        margin-bottom: 40px;
+        font-size: 16px;
+        line-height: 26px;
+        color: #4a4a4a;
+        font-weight: 400
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 {
+        margin-bottom: 45px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .btn-box1 {
+        position: relative
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .btn-box1 {
+        padding: 15px 50px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 {
+        position: relative
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .text-layer {
+        position: absolute;
+        right: -110px;
+        top: 50%;
+        font-size: 325px;
+        line-height: 1em;
+        color: #ffffff;
+        margin-top: -175px;
+        font-weight: 500
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .inner-column1 {
+        position: relative;
+        padding-left: 120px;
+        padding-bottom: 125px
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .inner-column1:before {
+        position: absolute;
+        left: -75px;
+        top: 65px;
+        height: 520px;
+        width: 520px;
+        background-image: url(https://i.ibb.co/fxJ1jtC/about-circle-1.png);
+        content: ""
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-1 {
+        position: relative
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-2 {
+        position: absolute;
+        left: 0;
+        bottom: 0
+    }
+
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-2,
+    .aboutb90ffb8dc999187d .about-section1 .image-column1 .image-1 {
+        box-shadow: 0 30px 50px rgba(8, 13, 62, .15)
+    }
+
+    .aboutb90ffb8dc999187d .image-column1 .inner-column1 img {
+        height: 400px;
+        width: 400px
+    }
+    @media (max-width: 767.98px) {
+        .aboutb90ffb8dc999187d .image-column1{
+    margin-left: -50px;
+  }
+}
+    /* #adidas(b90ffb8dc999187d) #css ends  */
+/*****adidas*****/
+
+/*****apeli*****/
+/* #apeli(4c8deeb2f4571930) #css starts  */
+.abouta4c8deeb2f4571930 .main{
+    height: 100vh;
+    background-image: url(https://rb.gy/7e2k0f); 
+    background-size: cover; 
+    background-position: center
+}
+.abouta4c8deeb2f4571930 .content{
+    top: 0; 
+    right: 0; 
+    bottom: 0; 
+    left: 0; 
+    background-color: rgba(0,0,0,.7)
+}
+.abouta4c8deeb2f4571930 .about{
+    border-radius: 30px; 
+    background-color: #9B5DE5
+}
+/* #apeli(4c8deeb2f4571930) #css ends  */
+/*****apeli*****/
+
+/*****tanvi*****/
+    /* #tanvi(testimonialtmq7s80wxl3) #css starts  */
+    .testimonialtmq7s80wxl3 .fdb-block {
+        padding: 7.5rem 0;
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #FFFFFF
+       }
+      
+      .testimonialtmq7s80wxl3 .fdb-block .fdb-box {
+          background: #FFFFFF;
+          padding: 3.75rem 2.5rem;
+          overflow: hidden;
+          color: #444444;
+          border-radius: 0.25rem;
+          box-shadow: 0 0.3125rem 0.875rem 0 rgba(129, 129, 129, 0.2) 
+      }
+    /* #tanvi(testimonialtmq7s80wxl3) #css ends  */
+/*****tanvi*****/
+
+/*****cash*****/
+    /* #cash(c1486b52e923e265f) #css starts  */
+    .counterc1486b52e923e265f h2{
+        color: #00BDF0   
+    }
+    .counterc1486b52e923e265f .BG{
+        background-color:#D8E5EC 
+    }
+    .counterc1486b52e923e265f .fa{
+        margin-top: 10px;
+        font-size: 60px
+    }
+
+    @media (min-width: 576px) {
+        .counterc1486b52e923e265f .col-md-3{ 
+            margin-bottom: 30px;
+            text-align: center
+         }         
+    }
+    @media (max-width: 576px) {
+        .counterc1486b52e923e265f .col-md-3{ 
+            margin-bottom: 30px;
+            text-align: center            
+         } 
+    }
+    /* #cash(c1486b52e923e265f) #css ends  */
+/*****cash*****/
+
+/*****ben*****/
+/* #ben(f4d36302323992b2) #css starts  */
+.bannerf4d36302323992b2 .button {
+    background-color: blueviolet;
+    color: wheat
+}
+
+.bannerf4d36302323992b2 .button:hover {
+    color: wheat
+}
+/* #ben(f4d36302323992b2) #css ends  */
+/*****ben*****/
+
